@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,c){"use strict";c.r(e);var o=c("7a23"),n={class:"about"},u=Object(o["g"])("h1",null,"About",-1);function a(t,e,c,a,b,p){var r=Object(o["u"])("QRcode");return Object(o["p"])(),Object(o["d"])("div",n,[u,Object(o["g"])(r,{text:"ChopBit.com"})])}var b=c("5e14"),p={components:{QRcode:b["a"]},setup:function(){}};p.render=a;e["default"]=p}}]);
+//# sourceMappingURL=about.88798e05.js.map
